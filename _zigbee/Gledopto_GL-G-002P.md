@@ -6,7 +6,7 @@ title: 7W Dual White and Color Garden Light Pro
 category: light
 supports: brightness, colortemp, colorxy
 zigbeemodel: ['GL-G-002P']
-compatible: [z2m]
+compatible: [zha,z2m]
 mlink: https://www.gledopto.com/h-col-381.html
 link: https://www.amazon.com/dp/B09996J64X/
 link2: https://nl.aliexpress.com/item/1005002662176655.html
